@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Materials/M_Instance_1.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Materials/M_Instance_1_Inst.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Models/Cube.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/64/ZTUBH60DUWAGSWABDHPNFY.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/30/JK5CESXQPWPKPDATY547CY.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Materials/MI_Instance_1.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/HZ/QRKW1D83IJ76EBZ0ZM81PJ.uasset"
+			]
+		}
+	]
+}
