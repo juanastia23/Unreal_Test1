@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/Engine_MI_Shaders/T_Base_Tile_Diffuse.uasset",
+				"C:/Users/JuanDavidAstiasuainz/Documents/Git/Unreal_Test1/Primera_prueba/Content/Materials/M_Instance_1.uasset",
 				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Materials/M_Instance_1.uasset",
 				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Materials/M_Instance_1_Inst.uasset",
 				"C:/Users/JuanDavidAstiasuainz/Downloads/Primera_prueba/Content/Models/Cube.uasset",
